@@ -1,3 +1,7 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "mcp-python-demo"
 version = "0.1.0"
@@ -11,6 +15,10 @@ dependencies = [
     "rich>=14.0.0",
     "dataclasses-json>=0.6.0"
 ]
+
+[tool.setuptools]
+packages = []
+py-modules = []
 
 [tool.ruff]
 line-length = 120

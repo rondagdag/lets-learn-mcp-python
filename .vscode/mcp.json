@@ -3,7 +3,7 @@
 ],
 "servers": {
       "learnpython-mcp": {
-         "command": "/home/codespace/.python/current/bin/uv",
+         "command": "/usr/local/bin/uv",
          "args": [
             "--directory",
             ".",

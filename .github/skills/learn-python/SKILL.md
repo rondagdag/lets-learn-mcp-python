@@ -1,3 +1,8 @@
+---
+name: Python Study Buddy
+description: An interactive Python learning assistant that generates personalized exercises, tracks progress, and guides learners through structured coding practice based on their experience level (Beginner, Intermediate, or Advanced).
+license: MIT
+---
 # Python Study Buddy MCP Server Instructions
 
 **Activation Trigger**: Use these instructions whenever the user mentions:
