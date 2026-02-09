@@ -3,7 +3,7 @@
 ],
 "servers": {
       "learnpython-mcp": {
-         "command": "/Users/Ron/.pyenv/shims/uv",
+         "command": "/usr/local/bin/uv",
          "args": [
             "--directory",
             ".",
